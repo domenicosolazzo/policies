@@ -1,4 +1,4 @@
-# Citizen Code of Conduct
+# Code of Conduct
 
 ####
 This policy is a “living” document, and subject to refinement and expansion in the future.
